@@ -1,0 +1,13 @@
+ html {
+  height: 100%;
+  width: 100%;
+}
+#section1{
+  background-color: #DDDEF3;
+}
+#section2{
+  background-color: #C0AFE2;
+}
+.navbar-brand{
+  background-color: #B19CDF;
+}
